@@ -1,0 +1,26 @@
+body {
+	margin:0 auto;
+}
+
+.main {
+	width:680px;
+	margin:0 auto;
+}
+
+.main .container {
+	padding:10px 30px;
+}
+
+.container .wrapper{
+	float:left;
+	width:200px;
+}
+
+.container .wrapper img{
+	margin-top: 10px;
+}
+
+.container .wrapper2 {
+	margin-left:10px;
+	margin-right:10px;
+}
